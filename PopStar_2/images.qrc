@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/222.mp3</file>
+        <file>res/222.wav</file>
+        <file>res/B.bmp</file>
+        <file>res/BK.bmp</file>
+        <file>res/bkDown.bmp</file>
+        <file>res/bkUp.bmp</file>
+        <file>res/Down.bmp</file>
+        <file>res/G.bmp</file>
+        <file>res/hDown.bmp</file>
+        <file>res/hUp.bmp</file>
+        <file>res/R.bmp</file>
+        <file>res/RBK.bmp</file>
+        <file>res/unbelievable.mp3</file>
+        <file>res/Up.bmp</file>
+        <file>res/XUp.bmp</file>
+        <file>res/xzq.mp3</file>
+        <file>res/Y.bmp</file>
+        <file>res/lhl.pk</file>
+        <file>res/bkDwon1.bmp</file>
+        <file>res/bkUp1.bmp</file>
+        <file>res/Up1.bmp</file>
+        <file>res/XUp1.bmp</file>
+        <file>res/StarGame.bmp</file>
+    </qresource>
+</RCC>
